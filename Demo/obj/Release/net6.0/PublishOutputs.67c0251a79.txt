@@ -1,0 +1,7 @@
+C:\Users\ahmed\Documents\Part Time\Part time\Demo\Publish\Publish\Demo.exe
+C:\Users\ahmed\Documents\Part Time\Part time\Demo\Publish\Publish\appsettings.Development.json
+C:\Users\ahmed\Documents\Part Time\Part time\Demo\Publish\Publish\appsettings.json
+C:\Users\ahmed\Documents\Part Time\Part time\Demo\Publish\Publish\Demo.dll
+C:\Users\ahmed\Documents\Part Time\Part time\Demo\Publish\Publish\Demo.deps.json
+C:\Users\ahmed\Documents\Part Time\Part time\Demo\Publish\Publish\Demo.runtimeconfig.json
+C:\Users\ahmed\Documents\Part Time\Part time\Demo\Publish\Publish\Demo.pdb

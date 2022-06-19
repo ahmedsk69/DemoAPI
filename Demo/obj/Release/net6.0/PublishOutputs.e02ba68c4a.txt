@@ -1,0 +1,7 @@
+C:\Users\ahmed\Documents\Part Time\Part time\Demo\Demo\obj\Release\net6.0\PubTmp\Out\Demo.exe
+C:\Users\ahmed\Documents\Part Time\Part time\Demo\Demo\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\ahmed\Documents\Part Time\Part time\Demo\Demo\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\ahmed\Documents\Part Time\Part time\Demo\Demo\obj\Release\net6.0\PubTmp\Out\Demo.dll
+C:\Users\ahmed\Documents\Part Time\Part time\Demo\Demo\obj\Release\net6.0\PubTmp\Out\Demo.deps.json
+C:\Users\ahmed\Documents\Part Time\Part time\Demo\Demo\obj\Release\net6.0\PubTmp\Out\Demo.runtimeconfig.json
+C:\Users\ahmed\Documents\Part Time\Part time\Demo\Demo\obj\Release\net6.0\PubTmp\Out\Demo.pdb
